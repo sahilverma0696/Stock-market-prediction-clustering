@@ -1,6 +1,7 @@
 # Stock market prediction using clustering
 
-Stock market is one of the most dynaminc and volatile source of data. The data is genereated every second as the money never sleeps. The change in the values of stocks are a result of various measures and sentiments of the people. In this project, I've tried to cluster the stocks of National Stock Exchange (NSE) India in Top gains and Loosers over a period of time.
+The stock market is one of the most dynamic and volatile sources of data. The data is generated every second as the money never sleeps. The change in the values of stocks is a result of various measures and sentiments of the people. In this project, I've tried to cluster the stocks of National Stock Exchange (NSE) India in Top gains and Losers over a period of time.
+
 
 # Requirements 
 * Python 3x | Anaconda
